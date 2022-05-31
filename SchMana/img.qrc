@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/Login_1.jpg</file>
+        <file>img/NWAFUPIC.jpg</file>
+        <file>img/Nwafu.ico</file>
+        <file>img/Autumn.jpg</file>
+        <file>img/Back.jpg</file>
+        <file>img/Nightfall.jpg</file>
+    </qresource>
+</RCC>
